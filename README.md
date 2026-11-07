@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+
+# Aldebarán de Jesús Rojas Turrent
+</div>
+
+> Estudiante Universitario
+
+> 🎂 8 de Junio, 2007
 
 <!--
-**AldeCraft/AldeCraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
