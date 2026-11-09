@@ -1,10 +1,9 @@
 <div align="center">
-<img src="https://github.com/AldeCraft/AldeCraft/blob/main/%5Bv2%5DAldebar%C3%A1n%20de%20Jes%C3%BAs%20Rojas%20Turrent%20%5B304-A%5D%5BISC%5D.png?raw=true" alt="Banner">
 
 # Aldebarán de Jesús Rojas Turrent
 </div>
 
-> Estudiante Universitario del TECNOLÓGICO SUPERIOR DE SAN ANDRÉS TUXTLA.
+> Estudiante Universitario
 
 > Cursando una Ingeniería en Sistemas Computacionales.
 
